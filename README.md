@@ -7,7 +7,7 @@ This is a GDSC Solution Challenge project. Recently, natural disasters have been
 
 
 ## Demo
-![Alt Text](https://firebasestorage.googleapis.com/v0/b/my-first-project-5d32d.appspot.com/o/1680058362459?alt=media&token=c1f1c8bc-f500-4e1e-8727-14a154270b2e)
+![Alt Text](https://github.com/OFD16/SOBU/blob/main/SOBU.gif)
 
 ## Google Services used for this app:
 
