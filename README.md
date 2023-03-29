@@ -36,8 +36,8 @@ This is a GDSC Solution Challenge project. Recently, natural disasters have been
 ## Documentation
 
 - Dont forget to change google maps apikey when getting build
-* [DEBUG] app/src/main/AndroidManifest.xml
-* [RELEASE] lib/.env.dart
+* [DEBUG & RELEASE] app/src/main/AndroidManifest.xml
+* [DEBUG & RELEASE] lib/.env.dart
 ## Installation
 
 * Install safe_house with flutter
